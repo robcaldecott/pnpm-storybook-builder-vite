@@ -22,5 +22,7 @@ While this works, when used in a `pnpm` monorepo it can cause other issues.
 Any ideas on a solution are welcome.
 
 https://github.com/eirslett/storybook-builder-vite/issues/55
+
 https://github.com/eirslett/storybook-builder-vite/issues/237
+
 https://github.com/pnpm/pnpm/issues/4284
